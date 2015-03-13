@@ -1,0 +1,132 @@
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+c:\users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\yoshi\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\yoshi\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.ResolveComReference.cache
+C:\Users\yoshi\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\yoshi\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.ResolveComReference.cache
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\kopec\Documents\Visual Studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\yoshi\documents\visual studio 2013\Projects\WpfApplication4\WpfApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.ResolveComReference.cache
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\taglib-sharp.dll
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.ResolveComReference.cache
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\taglib-sharp.dll
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.ResolveComReference.cache
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\bin\Debug\taglib-sharp.dll
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\yoshi\Documents\GitHub\tmp\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.ResolveComReference.cache
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\taglib-sharp.dll
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.lref
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+C:\Users\jordan-boyer\Desktop\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\skyly\Documents\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\App.baml
+C:\Users\yoshi\Documents\GitHub\MediaPlayer\MyWindowsMediaPlayer\WpfApplication4\WpfApplication4\obj\Debug\App.baml

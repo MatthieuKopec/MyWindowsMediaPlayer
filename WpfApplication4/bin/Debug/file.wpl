@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<smil>
+  <header>
+    <title>Sans Titre</title>
+  </header>
+  <sub>
+    <media src="C:\Users\Public\Videos\Sample Videos\Wildlife.wmv" />
+    <media src="C:\Users\Public\Music\Sample Music\Sleep Away.mp3" />
+  </sub>
+</smil>
